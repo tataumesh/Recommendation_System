@@ -1,0 +1,42 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Dataset 
+ml-1m.zip
+*.dat
+*.csv
+*.tsv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Model checkpoints / large artifacts 
+*.pt
+*.pth
+*.onnx
+*.bin
+checkpoints/
+
+# FAISS index files 
+*.index
+*.faiss
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Environment variables 
+.env
+.env.*
+!.env.example
+
+# Editor settings
+.vscode/
+.idea/
