@@ -17,13 +17,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Model checkpoints / large artifacts 
-*.pt
-*.pth
-*.onnx
-*.bin
-checkpoints/
-
 # FAISS index files 
 *.index
 *.faiss
