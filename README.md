@@ -7,7 +7,6 @@ A retrieval-based movie recommender built on the MovieLens-1M dataset. User and 
 ```
 .
 ├── recommendation_system.ipynb
-├── report.pdf
 ├── requirements.txt
 └── README.md
 ```

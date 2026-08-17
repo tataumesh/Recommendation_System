@@ -5,12 +5,8 @@ venv/
 ml-1m.zip
 *.dat
 
-# Jupyter checkpoints
-.ipynb_checkpoints/
+# Models
+.pt
 
-# Python cache
-__pycache__/
-
-# Environment variables 
-.env
-.env.*
+# Documents
+.docx
